@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Rick Andrew Macapagal!
 
-<!--
-**rickandrew2/rickandrew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner, aspiring web developer, and future multi-millionaire 💸.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on: a UN SDG-related website 💻
+- 🌱 I’m learning: JavaScript, Python, CSS animations
+- 💬 Ask me about: Frontend design, HTML/CSS tricks
+- ⚡ Fun fact: I love games, business ideas, and exploring new tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React.js, Tailwind CSS
+- Git & GitHub
+
+## 📫 Connect with me:
+- 📧 [Email](mailto:your@email.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🖥️ [Portfolio](https://your-website.com)
+
+## 📌 Projects
+- 🌐 [My Website](https://your-website.com)
+- 📊 [Survey Form Project](link)
+- 💼 [Capstone Project](link)
+
+---
+
+*Thanks for visiting my profile! ⭐ Feel free to follow or connect with me!*
