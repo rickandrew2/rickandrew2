@@ -47,10 +47,10 @@ I'm a passionate learner, aspiring web developer, and future multi-millionaire ğ
 
 ## ğŸ“Œ Featured Projects
 <div align="center">
-  <a href="https://your-website.com">
+  <a href="https://museo-sync.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickandrew2&repo=your-repo&theme=radical" />
   </a>
-  <a href="link">
+  <a href="https://web-systems.tech/BA-WST/MountData/index.php">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickandrew2&repo=your-repo&theme=radical" />
   </a>
 </div>
