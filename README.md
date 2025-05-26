@@ -48,12 +48,26 @@ I'm a passionate learner, aspiring web developer, and future multi-millionaire �
 ## 📌 Featured Projects
 <div align="center">
   <a href="https://museo-sync.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickandrew2&repo=your-repo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickandrew2&repo=museo-sync&theme=radical" />
   </a>
   <a href="https://web-systems.tech/BA-WST/MountData/index.php">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickandrew2&repo=your-repo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickandrew2&repo=MountData&theme=radical" />
   </a>
 </div>
+
+### 🏔️ MountData
+A comprehensive mountain exploration platform that helps hikers discover and learn about various mountains in the Philippines. Features include:
+- Interactive mountain maps and guides
+- Sustainable tourism information
+- SDG 15 (Life on Land) integration
+- Community-driven content
+
+### 🏛️ Museo-Sync
+A modern museum management system that helps museums digitize their collections and improve visitor experience. Features include:
+- Digital collection management
+- Interactive exhibits
+- Visitor engagement tools
+- Real-time analytics
 
 ## 📊 GitHub Stats
 <div align="center">
