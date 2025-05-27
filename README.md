@@ -39,10 +39,10 @@
 
 ## 📫 Connect with me:
 <div align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:rickandrewm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/rick-andrew-macapagal-0b55982a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-website.com">
