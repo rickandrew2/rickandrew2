@@ -16,12 +16,6 @@
   </a>
 </div>
 
-## 🚀 About Me
-- 🔭 Currently crafting a UN SDG-related website 💻
-- 🌱 Actively Learning: Advanced JavaScript patterns, backend integration with RESTful APIs, Python for data manipulation, and immersive CSS/GSAP animations for rich UI experiences
-- 💬 Ask Me About: Scalable frontend architecture, responsive UI/UX design, state management in React, and modern HTML/CSS workflows
-- ⚡ Fun Fact: I’m passionate about gaming, brainstorming innovative business models, and diving into cutting-edge tech like Web3, AI integrations, and serverless functions
-
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
