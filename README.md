@@ -18,9 +18,9 @@
 
 ## 🚀 About Me
 - 🔭 Currently crafting a UN SDG-related website 💻
-- 🌱 Mastering JavaScript, Python, and CSS animations
-- 💬 Ask me about Frontend design and HTML/CSS tricks
-- ⚡ Fun fact: I love games, business ideas, and exploring new tech!
+- 🌱 Actively Learning: Advanced JavaScript patterns, backend integration with RESTful APIs, Python for data manipulation, and immersive CSS/GSAP animations for rich UI experiences
+- 💬 Ask Me About: Scalable frontend architecture, responsive UI/UX design, state management in React, and modern HTML/CSS workflows
+- ⚡ Fun Fact: I’m passionate about gaming, brainstorming innovative business models, and diving into cutting-edge tech like Web3, AI integrations, and serverless functions
 
 ## 🛠️ Tech Stack
 <div align="center">
