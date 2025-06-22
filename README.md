@@ -61,7 +61,7 @@ A comprehensive mountain exploration platform that helps hikers discover and lea
 
 ### 🏛️ Museo-Sync
 <div align="center">
-  <a href="https://museo-sync.vercel.app/">
+  <a href="https://museo-de-malaquing-tubig.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
