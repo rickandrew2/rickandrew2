@@ -16,12 +16,13 @@
   </a>
 </div>
 
-## About Me
-Full Stack Developer with expertise in modern web technologies and frameworks. I specialize in building scalable web applications with focus on user experience and performance optimization. Currently working on sustainable development projects and museum management systems.
+## 🚀 About Me
+- 🔭 Currently crafting a UN SDG-related website 💻
+- 🌱 Mastering JavaScript, Python, and CSS animations
+- 💬 Ask me about Frontend design and HTML/CSS tricks
+- ⚡ Fun fact: I love games, business ideas, and exploring new tech!
 
-## Tech Stack
-
-### Frontend
+## 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -74,7 +75,7 @@ Full Stack Developer with expertise in modern web technologies and frameworks. I
 
 ### Museo-Sync
 <div align="center">
-  <a href="https://museo-sync.vercel.app/">
+  <a href="https://museo-de-malaquing-tubig.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
