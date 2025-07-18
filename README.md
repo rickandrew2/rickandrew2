@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Rick Andrew Macapagal!
+# Hi, I'm Rick Andrew Macapagal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;React+%26+TypeScript+Developer;Web+Application+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,20 +16,25 @@
   </a>
 </div>
 
-## 🚀 About Me
-- 🔭 Currently crafting a UN SDG-related website 💻
-- 🌱 Mastering JavaScript, Python, and CSS animations
-- 💬 Ask me about Frontend design and HTML/CSS tricks
-- ⚡ Fun fact: I love games, business ideas, and exploring new tech!
+## About Me
+Full Stack Developer with expertise in modern web technologies and frameworks. I specialize in building scalable web applications with focus on user experience and performance optimization. Currently working on sustainable development projects and museum management systems.
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+### Frontend
 <div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</div>
+
+### Backend & Database
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -37,7 +42,15 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
-## 📫 Connect with me:
+### Cloud Services & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+## Connect with me
 <div align="center">
   <a href="mailto:rickandrewm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -50,35 +63,30 @@
   </a>
 </div>
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🏔️ MountData
+### MountData
 <div align="center">
   <a href="https://web-systems.tech/BA-WST/MountData/index.php">
     <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
 
-A comprehensive mountain exploration platform that helps hikers discover and learn about various mountains in the Philippines. Features include:
-- 🗺️ Interactive mountain maps and guides
-- 🌱 Sustainable tourism information
-- 🌍 SDG 15 (Life on Land) integration
-- 👥 Community-driven content
-
-### 🏛️ Museo-Sync
+### Museo-Sync
 <div align="center">
   <a href="https://museo-sync.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
 
-A modern museum management system that helps museums digitize their collections and improve visitor experience. Features include:
-- 📱 Digital collection management
-- 🎨 Interactive exhibits
-- 👥 Visitor engagement tools
-- 📊 Real-time analytics
+### Terminal Portfolio
+<div align="center">
+  <a href="https://github.com/rickandrew2/TerminalPortfolio">
+    <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
 
-## 📊 GitHub Activity
+## GitHub Activity
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rickandrew2&theme=radical&row=1" alt="GitHub Trophies" />
 </div>
@@ -90,5 +98,5 @@ A modern museum management system that helps museums digitize their collections 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+follow+or+connect+with+me!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me!" alt="Typing SVG" />
 </div>
