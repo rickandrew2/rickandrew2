@@ -1,0 +1,33 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured work visual strip">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="16" fill="url(#panel)"/>
+
+  <rect x="32" y="38" width="340" height="144" rx="12" fill="#111827" stroke="#334155"/>
+  <text x="56" y="68" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Flagship</text>
+  <text x="56" y="96" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">agents-templated</text>
+  <text x="56" y="124" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="14">Security-first templates and AI workflow setup.</text>
+
+  <rect x="430" y="38" width="340" height="144" rx="12" fill="#111827" stroke="#334155"/>
+  <text x="454" y="68" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Impact</text>
+  <text x="454" y="96" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Museo Sync</text>
+  <text x="454" y="124" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="14">ML-enabled platform with 80% manual workflow reduction.</text>
+
+  <rect x="828" y="38" width="340" height="144" rx="12" fill="#111827" stroke="#334155"/>
+  <text x="852" y="68" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Portfolio</text>
+  <text x="852" y="96" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">rick-dev-portfolio</text>
+  <text x="852" y="124" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="14">Curated project proof, stack strengths, and delivery outcomes.</text>
+
+  <path d="M204 182L204 206" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M600 182L600 206" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M996 182L996 206" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+</svg>

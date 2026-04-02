@@ -1,121 +1,132 @@
-# Hi, I'm Rick Andrew Macapagal
+<p align="center">
+	<img src="assets/readme/hero-banner.svg" alt="Rick Andrew profile banner" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;React+%26+TypeScript+Developer;Web+Application+Specialist" alt="Typing SVG" />
-</div>
+# Rick Andrew
 
-<div align="center">
-  <a href="https://github.com/rickandrew2?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/rickandrew2?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/rickandrew2?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+Full-stack developer building business-focused software, AI-assisted workflows, and developer tooling that ships with measurable outcomes.
 
-## About Me
-Full Stack Developer specializing in the MERN stack with expertise in building scalable web applications. I focus on creating modern, responsive applications using React, Node.js, and MongoDB. Also experienced with Python for machine learning applications and aspiring to become a data analyst with skills in SQL databases and data visualization tools. Currently working on sustainable development projects and museum management systems.
-
-## Tech Stack
-
-### Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</div>
-
-### Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
-
-### Databases & Data Analysis
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
-
-### Tools & Services
-<div align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/SMTP-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-## Connect with me
-<div align="center">
-  <a href="mailto:rickandrewm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rick-andrew-macapagal-0b55982a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
-
-## Featured Projects
-
-### MountData
-<div align="center">
-  <a href="https://web-systems.tech/BA-WST/MountData/index.php">
-    <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
-
-### Museo-Sync
-<div align="center">
-  <a href="https://museo-de-malaquing-tubig.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
-
-### Terminal Portfolio
-<div align="center">
-  <a href="https://rick-andrew-terminal-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
-
-## GitHub Activity
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rickandrew2&theme=radical&row=1" alt="GitHub Trophies" />
-</div>
+[Portfolio](https://rick-dev-portfolio.vercel.app) | [NPM](https://www.npmjs.com/package/agents-templated) | [LinkedIn](https://linkedin.com/in/rick-andrew-macapagal-0b55982a2) | [Email](mailto:rickandrew.macapagal@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rickandrew2&color=blueviolet" alt="Profile Views" />
-</div>
+## Snapshot
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me!" alt="Typing SVG" />
-</div>
+- Published and actively maintaining [agents-templated](https://github.com/rickandrew2/agents-templated), a CLI template system for security-first and AI-assisted development workflows.
+- Built an ML-powered museum platform that reduced manual workflows by **80%** through automation, analytics, and role-based operations.
+- Focused on full-stack delivery where product decisions, implementation, and business impact stay aligned.
+
+---
+
+## Featured Work: agents-templated
+
+### [agents-templated](https://github.com/rickandrew2/agents-templated)
+
+An enterprise-ready development template and CLI built to reduce setup friction and enforce high-quality engineering defaults across stacks.
+
+**What it solves**
+- Standardizes project bootstrapping for teams that want security, testing, and architecture discipline from day one.
+- Bakes in AI assistant guidance, scoped skills, and deterministic workflows.
+- Supports multiple presets while staying technology-agnostic.
+
+**Quick commands**
+```bash
+npx agents-templated init --preset=nextjs
+npx agents-templated init --preset=django-react
+npx agents-templated wizard
+npx agents-templated validate
+```
+
+[![NPM Version](https://img.shields.io/npm/v/agents-templated.svg)](https://www.npmjs.com/package/agents-templated)
+[![Downloads](https://img.shields.io/npm/dm/agents-templated.svg)](https://www.npmjs.com/package/agents-templated)
+[![GitHub](https://img.shields.io/github/stars/rickandrew2/agents-templated.svg?style=social)](https://github.com/rickandrew2/agents-templated)
+
+---
+
+## Selected Projects
+
+<p align="center">
+	<img src="assets/readme/featured-strip.svg" alt="Featured work illustration" width="100%" />
+</p>
+
+| Project | Impact | Stack | Link |
+|---|---|---|---|
+| Museo Sync Management System | Reduced manual museum workflows by **80%** with ML-driven operations and multilingual AI support. | React, Node.js, FastAPI, MongoDB, scikit-learn | [Live Demo](https://museo-de-malaquing-tubig.vercel.app/) |
+| GIS Cemetery Management Platform | Delivered geospatial workflows with map-driven operations and role-based process controls. | TypeScript, NestJS, PostGIS, Mapbox GL | [Portfolio Case](https://rick-dev-portfolio.vercel.app) |
+| Rick Dev Portfolio | Personal portfolio presenting selected projects, technical capabilities, and delivery outcomes in one place. | Next.js, TypeScript, Tailwind CSS | [View Portfolio](https://rick-dev-portfolio.vercel.app/) |
+
+---
+
+## Core Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express, NestJS, FastAPI, REST APIs  
+**Data:** PostgreSQL, PostGIS, MongoDB Atlas, MySQL  
+**AI and Analytics:** OpenAI API, scikit-learn, pandas, predictive analytics  
+**Delivery:** GitHub, Docker, Vercel, Render, Jest
+
+---
+
+## How I Work
+
+- Build for outcomes, not just feature completion.
+- Prioritize secure defaults, maintainable architecture, and testable logic.
+- Use AI-native workflows to accelerate delivery without lowering quality.
+- Keep communication clear for both technical and business stakeholders.
+
+---
+
+## Professional Background
+
+I started with small web builds, moved into production systems during internship work, then shipped a public CLI package to help developers scale quality workflows faster. I am currently completing an Information Technology degree with a Business Analytics focus while working on product-minded full-stack engineering with measurable impact.
+
+---
+
+## Career Milestones
+
+- **2022-2024:** Built foundational web projects and focused on practical delivery.
+- **2025:** Worked on production systems during internship at Tech Executive Labs.
+- **2025:** Delivered Museo Sync and supported an **80% workflow reduction** target.
+- **2026:** Published `agents-templated` and began active open-source maintenance.
+
+---
+
+## Current Focus
+
+- Building reusable developer tooling that improves team delivery quality.
+- Shipping full-stack systems that combine analytics with operational workflows.
+- Integrating AI features with strong validation, reliability, and security defaults.
+- Growing in roles where engineering execution is directly tied to business value.
+
+---
+
+## Collaboration Style
+
+- I value clear requirements, visible progress, and measurable outcomes.
+- I adapt quickly across frontend, backend, and data layers when priorities shift.
+- I communicate technical tradeoffs in language both engineers and stakeholders can use.
+
+---
+
+## Open To
+
+- Full-stack development opportunities
+- AI integration and workflow automation projects
+- Product engineering roles that value both technical depth and business impact
+
+---
+
+## Domain Focus
+
+- Developer productivity and internal tooling
+- Operational platforms with analytics visibility
+- Applied AI features tied to real workflows
+
+---
+
+## Contact
+
+- Email: [rickandrew.macapagal@gmail.com](mailto:rickandrew.macapagal@gmail.com)
+- LinkedIn: [Rick Andrew Macapagal](https://linkedin.com/in/rick-andrew-macapagal-0b55982a2/)
+- Portfolio: [rick-dev-portfolio.vercel.app](https://rick-dev-portfolio.vercel.app)
+- NPM: [agents-templated](https://www.npmjs.com/package/agents-templated)

@@ -1,0 +1,60 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rick Andrew profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.5" stop-color="#152238"/>
+      <stop offset="1" stop-color="#1F375E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="90" x2="760" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4CC9F0"/>
+      <stop offset="1" stop-color="#4895EF"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="360" rx="20" fill="url(#bg)"/>
+  <circle cx="1220" cy="70" r="140" fill="#60A5FA" fill-opacity="0.12"/>
+  <circle cx="1280" cy="300" r="190" fill="#22D3EE" fill-opacity="0.10"/>
+  <circle cx="180" cy="40" r="90" fill="#38BDF8" fill-opacity="0.10"/>
+
+  <g opacity="0.92">
+    <rect x="58" y="58" width="760" height="244" rx="16" fill="#0F172A" fill-opacity="0.85" stroke="#334155"/>
+    <rect x="58" y="58" width="760" height="36" rx="16" fill="#111827"/>
+    <circle cx="84" cy="76" r="5" fill="#F87171"/>
+    <circle cx="104" cy="76" r="5" fill="#FBBF24"/>
+    <circle cx="124" cy="76" r="5" fill="#34D399"/>
+
+    <text x="96" y="148" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Rick Andrew</text>
+    <text x="96" y="184" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Full-stack Developer • AI-Native Workflows • Business Impact</text>
+
+    <rect x="96" y="208" width="176" height="34" rx="17" fill="url(#chip)"/>
+    <text x="128" y="230" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">npm author</text>
+
+    <rect x="286" y="208" width="220" height="34" rx="17" fill="#1E293B" stroke="#475569"/>
+    <text x="316" y="230" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">security-first engineering</text>
+
+    <rect x="520" y="208" width="240" height="34" rx="17" fill="#1E293B" stroke="#475569"/>
+    <text x="550" y="230" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">analytics-driven delivery</text>
+
+    <path d="M96 266H746" stroke="#334155"/>
+    <text x="96" y="288" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="14">npx agents-templated init --preset=nextjs</text>
+  </g>
+
+  <g>
+    <rect x="898" y="84" width="454" height="192" rx="16" fill="#0B172A" fill-opacity="0.88" stroke="#2D4B75"/>
+    <rect x="922" y="108" width="190" height="58" rx="10" fill="url(#accent)" fill-opacity="0.25" stroke="#38BDF8"/>
+    <text x="944" y="130" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Featured</text>
+    <text x="944" y="151" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">agents-templated</text>
+
+    <rect x="1130" y="108" width="198" height="58" rx="10" fill="#13243B" stroke="#2D4B75"/>
+    <text x="1152" y="132" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Project Impact</text>
+    <text x="1152" y="151" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">80% workflow reduction</text>
+
+    <rect x="922" y="178" width="406" height="72" rx="10" fill="#13243B" stroke="#2D4B75"/>
+    <text x="944" y="203" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Positioning</text>
+    <text x="944" y="225" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Product-minded engineering with measurable outcomes</text>
+  </g>
+</svg>
