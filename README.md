@@ -10,7 +10,7 @@ I approach engineering with one goal: solve problems in the simplest, smartest w
 
 ## Snapshot
 
-- Maintainer of [agents-templated](https://github.com/rickandrew2/agents-templated), a CLI for security-first and AI-assisted development workflows.
+- Built and maintain [agents-templated](https://github.com/rickandrew2/agents-templated), a CLI I originally created for my own security-first and AI-assisted workflow.
 - Built an ML-powered museum platform that reduced manual workflows by **80%**.
 - Focused on full-stack delivery that connects engineering execution to business impact.
 
@@ -20,11 +20,11 @@ I approach engineering with one goal: solve problems in the simplest, smartest w
 
 ### [agents-templated](https://github.com/rickandrew2/agents-templated)
 
-An enterprise-ready CLI and template system that reduces setup friction and enforces secure, production-minded engineering defaults.
+A personal CLI and template system I built to remove repetitive setup work and keep my projects consistent, secure, and production-minded.
 
 **What it solves**
-- Standardizes project bootstrapping with security, testing, and architecture discipline from day one.
-- Adds AI assistant guidance and deterministic workflow conventions for teams.
+- Standardizes my project bootstrapping with security, testing, and architecture discipline from day one.
+- Keeps my AI-assisted workflow structured and repeatable across stacks.
 - Supports multiple presets while staying technology-agnostic.
 
 **Quick commands**
@@ -83,8 +83,10 @@ npx agents-templated validate
 <p>
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 	<img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+	<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+	<img src="https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 	<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
 	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 	<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
